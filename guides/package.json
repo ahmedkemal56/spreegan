@@ -43,7 +43,7 @@
     "redoc": "2.0.0-rc.12",
     "rehype-react": "^4.0.1",
     "remark": "^11.0.1",
-    "remark-html": "^10.0.0",
+    "remark-html": "^13.0.2",
     "serve": "^11.2.0",
     "styled-components": "^4.2.0",
     "tachyons": "^4.11.1"
